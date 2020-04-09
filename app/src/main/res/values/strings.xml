@@ -7,4 +7,9 @@
     <string name="home_text">Home</string>
     <string name="profile_text">Profile</string>
     <string name="settings_text">Settings</string>
+    <string name="image_name_text">image_%s</string>
+    <string name="date_format_text">DD_MM_YYYY_ss</string>
+    <string name="image_postfix">.jpg</string>
+    <string name="my_provider_name">com.bigbang.fileproviders</string>
+    <string name="my_path">profile_image/</string>
 </resources>

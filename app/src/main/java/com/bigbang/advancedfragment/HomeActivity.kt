@@ -5,7 +5,7 @@ import android.os.Bundle
 import androidx.viewpager.widget.ViewPager
 import kotlinx.android.synthetic.main.activity_main.*
 
-class MainActivity : AppCompatActivity(), ViewPager.OnPageChangeListener {
+class HomeActivity : AppCompatActivity(), ViewPager.OnPageChangeListener {
     //To use a ViewPager you need a ViewPagerAdapter
     private lateinit var homeViewPagerAdapter: HomeViewPagerAdapter
 
